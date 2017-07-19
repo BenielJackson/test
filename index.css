@@ -1,0 +1,24 @@
+.name{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+    color: #706E6E;
+}
+.header{
+    width: 80%;
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 22px;
+    color: #706E6E;
+}
+.line{
+    height: 1px;
+    background-color: #979797;
+}
+.headerbutton{
+    text-align: center;
+    cursor: pointer;
+}
+.headerbutton:hover{
+    
+}
